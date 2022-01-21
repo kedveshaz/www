@@ -19,9 +19,11 @@
                 "name": "Iroda"
             },
             "tags": [
+                   "Hírek",
+                   "Események"
             ],
             "date_published": "2022-01-21T19:40:07+01:00",
-            "date_modified": "2022-01-21T19:40:07+01:00"
+            "date_modified": "2022-01-21T19:56:43+01:00"
         }
     ]
 }
