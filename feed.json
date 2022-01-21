@@ -10,11 +10,41 @@
     },
     "items": [
         {
+            "id": "https://www.kedves-haz.hu/elso-esemeny/",
+            "url": "https://www.kedves-haz.hu/elso-esemeny/",
+            "title": "Első esemény",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam finibus faucibus lorem, vel suscipit mi venenatis nec. Suspendisse potenti. Phasellus eros lectus, euismod eget felis sed, rhoncus scelerisque sem. In semper, mauris a tincidunt porta, nibh est efficitur est, blandit pulvinar tellus massa vitae ex.",
+            "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam finibus faucibus lorem, vel suscipit mi venenatis nec. Suspendisse potenti. Phasellus eros lectus, euismod eget felis sed, rhoncus scelerisque sem. In semper, mauris a tincidunt porta, nibh est efficitur est, blandit pulvinar tellus massa vitae ex. Phasellus malesuada tincidunt eros eu aliquam. Nulla vel ex quis turpis vehicula feugiat in at magna. Donec nec rutrum quam. Nulla efficitur, mauris eget semper sollicitudin, ligula mi vehicula enim, et scelerisque ipsum tortor nec est. Suspendisse quis eleifend massa. Mauris eleifend maximus lectus ut porttitor. Integer mattis, risus sit amet facilisis placerat, eros turpis gravida tellus, vitae dignissim risus quam ut ante. Sed eu hendrerit sem. Maecenas eu tincidunt est. Nullam fringilla risus vel quam facilisis, a volutpat mi maximus.</p>",
+            "author": {
+                "name": "Iroda"
+            },
+            "tags": [
+                   "Események"
+            ],
+            "date_published": "2022-01-21T20:27:24+01:00",
+            "date_modified": "2022-01-21T20:27:24+01:00"
+        },
+        {
+            "id": "https://www.kedves-haz.hu/elso-hir/",
+            "url": "https://www.kedves-haz.hu/elso-hir/",
+            "title": "Első hír",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam finibus faucibus lorem, vel suscipit mi venenatis nec. Suspendisse potenti. Phasellus eros lectus, euismod eget felis sed, rhoncus scelerisque sem. In semper, mauris a tincidunt porta, nibh est efficitur est, blandit pulvinar tellus massa vitae ex.",
+            "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam finibus faucibus lorem, vel suscipit mi venenatis nec. Suspendisse potenti. Phasellus eros lectus, euismod eget felis sed, rhoncus scelerisque sem. In semper, mauris a tincidunt porta, nibh est efficitur est, blandit pulvinar tellus massa vitae ex. Phasellus malesuada tincidunt eros eu aliquam. Nulla vel ex quis turpis vehicula feugiat in at magna. Donec nec rutrum quam. Nulla efficitur, mauris eget semper sollicitudin, ligula mi vehicula enim, et scelerisque ipsum tortor nec est. Suspendisse quis eleifend massa. Mauris eleifend maximus lectus ut porttitor. Integer mattis, risus sit amet facilisis placerat, eros turpis gravida tellus, vitae dignissim risus quam ut ante. Sed eu hendrerit sem. Maecenas eu tincidunt est. Nullam fringilla risus vel quam facilisis, a volutpat mi maximus.</p>\n<p>Mauris sagittis tincidunt eleifend. Aliquam erat volutpat. Mauris lorem augue, dictum sed elementum et, viverra eget nisi. Duis mollis cursus sodales. Ut maximus nulla sed vulputate varius. In pharetra elit eget aliquet finibus. Nunc porttitor quis erat iaculis ornare. Nunc finibus lobortis ante, in convallis nibh eleifend ut. Morbi et elit tristique, venenatis tortor sed, imperdiet arcu. Quisque aliquet magna in ipsum aliquet, a pulvinar tellus porttitor. Phasellus est elit, aliquet maximus pretium a, mollis ultrices elit. Fusce bibendum libero non orci vestibulum aliquam. Integer eget risus molestie, aliquet nulla vel, ullamcorper enim. Mauris nisi purus, vulputate sit amet ante accumsan, tempus placerat massa.</p>",
+            "author": {
+                "name": "Iroda"
+            },
+            "tags": [
+                   "Hírek"
+            ],
+            "date_published": "2022-01-21T20:27:08+01:00",
+            "date_modified": "2022-01-21T20:27:08+01:00"
+        },
+        {
             "id": "https://www.kedves-haz.hu/uj-weboldal/",
             "url": "https://www.kedves-haz.hu/uj-weboldal/",
             "title": "Új weboldal",
-            "summary": "Elindult az új weboldalunk...",
-            "content_html": "<p>Elindult az új weboldalunk...</p>",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam finibus faucibus lorem, vel suscipit mi venenatis nec. Suspendisse potenti. Phasellus eros lectus, euismod eget felis sed, rhoncus scelerisque sem. In semper, mauris a tincidunt porta, nibh est efficitur est, blandit pulvinar tellus massa vitae ex.",
+            "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam finibus faucibus lorem, vel suscipit mi venenatis nec. Suspendisse potenti. Phasellus eros lectus, euismod eget felis sed, rhoncus scelerisque sem. In semper, mauris a tincidunt porta, nibh est efficitur est, blandit pulvinar tellus massa vitae ex. Phasellus malesuada tincidunt eros eu aliquam. Nulla vel ex quis turpis vehicula feugiat in at magna. Donec nec rutrum quam. Nulla efficitur, mauris eget semper sollicitudin, ligula mi vehicula enim, et scelerisque ipsum tortor nec est. Suspendisse quis eleifend massa. Mauris eleifend maximus lectus ut porttitor. Integer mattis, risus sit amet facilisis placerat, eros turpis gravida tellus, vitae dignissim risus quam ut ante. Sed eu hendrerit sem. Maecenas eu tincidunt est. Nullam fringilla risus vel quam facilisis, a volutpat mi maximus.</p>\n<p>Mauris sagittis tincidunt eleifend. Aliquam erat volutpat. Mauris lorem augue, dictum sed elementum et, viverra eget nisi. Duis mollis cursus sodales. Ut maximus nulla sed vulputate varius. In pharetra elit eget aliquet finibus. Nunc porttitor quis erat iaculis ornare. Nunc finibus lobortis ante, in convallis nibh eleifend ut. Morbi et elit tristique, venenatis tortor sed, imperdiet arcu. Quisque aliquet magna in ipsum aliquet, a pulvinar tellus porttitor. Phasellus est elit, aliquet maximus pretium a, mollis ultrices elit. Fusce bibendum libero non orci vestibulum aliquam. Integer eget risus molestie, aliquet nulla vel, ullamcorper enim. Mauris nisi purus, vulputate sit amet ante accumsan, tempus placerat massa.</p>",
             "author": {
                 "name": "Iroda"
             },
@@ -23,7 +53,7 @@
                    "Események"
             ],
             "date_published": "2022-01-21T19:40:07+01:00",
-            "date_modified": "2022-01-21T20:06:37+01:00"
+            "date_modified": "2022-01-21T20:26:51+01:00"
         }
     ]
 }
