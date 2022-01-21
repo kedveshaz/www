@@ -13,8 +13,8 @@
             "id": "https://www.kedves-haz.hu/uj-weboldal/",
             "url": "https://www.kedves-haz.hu/uj-weboldal/",
             "title": "Új weboldal",
-            "summary": "Lett új weboldal...",
-            "content_html": "<p>Lett új weboldal...</p>",
+            "summary": "Elindult az új weboldalunk...",
+            "content_html": "<p>Elindult az új weboldalunk...</p>",
             "author": {
                 "name": "Iroda"
             },
@@ -23,7 +23,7 @@
                    "Események"
             ],
             "date_published": "2022-01-21T19:40:07+01:00",
-            "date_modified": "2022-01-21T19:56:43+01:00"
+            "date_modified": "2022-01-21T20:06:37+01:00"
         }
     ]
 }
