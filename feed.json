@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "KEDVES-HÁZ Ingatlankezelő",
+    "description": "",
+    "home_page_url": "https://www.kedves-haz.hu",
+    "feed_url": "https://www.kedves-haz.hu/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Iroda"
+    },
+    "items": [
+        {
+            "id": "https://www.kedves-haz.hu/uj-weboldal/",
+            "url": "https://www.kedves-haz.hu/uj-weboldal/",
+            "title": "Új weboldal",
+            "summary": "Lett új weboldal...",
+            "content_html": "<p>Lett új weboldal...</p>",
+            "author": {
+                "name": "Iroda"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-21T19:40:07+01:00",
+            "date_modified": "2022-01-21T19:40:07+01:00"
+        }
+    ]
+}

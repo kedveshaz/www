@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>KEDVES-HÁZ Ingatlankezelő</title>
+    <link href="https://www.kedves-haz.hu/feed.xml" rel="self" />
+    <link href="https://www.kedves-haz.hu" />
+    <updated>2022-01-21T19:40:07+01:00</updated>
+    <author>
+        <name>Iroda</name>
+    </author>
+    <id>https://www.kedves-haz.hu</id>
+
+    <entry>
+        <title>Új weboldal</title>
+        <author>
+            <name>Iroda</name>
+        </author>
+        <link href="https://www.kedves-haz.hu/uj-weboldal/"/>
+        <id>https://www.kedves-haz.hu/uj-weboldal/</id>
+
+        <updated>2022-01-21T19:40:07+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Lett új weboldal...
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Lett új weboldal...</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
